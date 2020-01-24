@@ -1,0 +1,21 @@
+git clone
+git status
+//now change code and add files
+git add . 
+git status 
+git commit -m "MESSAGE FOR COMMIT"
+git push 
+
+//Process for when you change git repo for somwhere else
+
+git fetch
+git pull
+//now change code and add files
+git add . 
+git status 
+git commit -m "MESSAGE FOR COMMIT"
+git push 
+
+//Process for when you change git repo for somwhere else
+
+
