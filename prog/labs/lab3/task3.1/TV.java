@@ -16,7 +16,7 @@ public class TV {
     private int maxChnl = 10;
 
     public int getSerialNum(){
-        return updateTvSerial;
+        return tvSerial;
 
     }
 

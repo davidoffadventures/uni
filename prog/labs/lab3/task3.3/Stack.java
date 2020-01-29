@@ -1,10 +1,12 @@
 import java.util.ArrayList;
 
-public class Stack {
+public class Stack<E> {
 	
-	private ArrayList<String> stack = new ArrayList<String>();
+
 	
-	public void push(String value){
+	private ArrayList<E> stack = new ArrayList<E>();
+	
+	public void push(E value){
 		
 	stack.add(0, value);	
 	}
@@ -21,7 +23,7 @@ public class Stack {
 	
 	
 	
-	public String top(){
+	public E top(){
 		
         if (stack.isEmpty()){
 			

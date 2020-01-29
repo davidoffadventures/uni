@@ -23,7 +23,7 @@ public class Main {
 public static void main(String[] args) {
 		
 		
-	 Stack newStack = new Stack();
+	 Stack<String> newStack = new Stack<String>();
 	 
 	 newStack.push("Harry Potter - Philosophers stone");
 	 newStack.push("Harry Potter - Chamber of Secrets");

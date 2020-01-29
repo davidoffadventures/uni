@@ -7,14 +7,21 @@ public class Main {
         tv1.channelup();
         tv1.setChannel(1);
         tv1.volumeUP();
-        System.out.println(tv1.getChannel());
+        //tv1.volumeDwn();
+        System.out.println("The channel is " + tv1.getChannel());
+        
+        System.out.println("The volume is " + tv1.getVolume());
+        
+        System.out.println("This is a load of jibberish" + tv1);
+
+        
         System.out.println(tv1.getSerialNum());
-        System.out.println(tv1.getVolume());
-        System.out.println(tv1);
-
-
-        //TV tv2= new TV();
-       // System.out.println(tv2.getSerialNum());
+        
+        TV tv2 = new TV();
+        System.out.println(tv2.getSerialNum());
+        
+        TV tv3 = new TV();
+        System.out.println(tv3.getSerialNum());
 
     }
 }
