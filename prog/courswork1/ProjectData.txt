@@ -1,0 +1,90 @@
+Make Birthday Cake
+3
+Buy candles
+100
+Bake cake
+100
+Decorate cake
+50
+Decorate spare room
+4
+Paint walls
+33.33
+Sort out carpet
+50
+Buy new furniture
+75
+Fix light switch
+16
+Develop Module
+7
+Research Material
+76.5
+Write Lectures
+44.4
+Write Labs
+20
+Write Exam 1
+100.00
+Write Coursework 1
+100.00
+Write Exam 2
+0.0
+Write Coursework 2
+10
+Write Teaching Coursework
+4
+Research Teaching Pedagogy
+80
+Initial Draft
+100
+Final Draft
+20
+Proof Read
+0
+Visit The Moon
+2
+Make Rocket
+1.5
+Fly to Moon
+0
+Clean House
+6
+Hoover Carpets
+100
+Mop Floor
+50
+Clean Windows
+100
+Tidy Kitchen
+33.33
+Do Laundry
+0
+Dust everything
+66.66
+Secret Project
+0
+Build Widget
+7
+3D Print Part A
+100.00
+3D Print Part B
+12.5
+Design Electronics
+73.65
+Manufacture Electronics
+0
+Buy Parts
+37.5
+Assemble
+8
+Ship To Customer
+0
+Plan Holiday
+3
+Choose Location
+100
+Book Hotel
+100
+Book Flights
+100
