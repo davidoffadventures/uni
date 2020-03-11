@@ -1,0 +1,13 @@
+BOOK,IN,Sophie's World,Jostein Gaarder,2000,978-1-8579-9291-5
+DVD,IN,Harry Potter and the Order of the Phoenix,2007,PG-13,Chris Columbus,138
+DVD,OUT,Howl's Moving Castle,2004,PG,Hayao Miyazaki,119
+DVD,OUT,Harry Potter and the Chamber of Secrets,2002,PG,Chris Columbus,161
+DVD,OUT,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,David Yates,130
+BOOK,IN,Python for Everyone,Cay Horstmann and Rance D. Necaise,2013,978-1-118-62613-9
+DVD,IN,Harry Potter and the Prisoner of Azkaban,2004,PG,Alfonso Cuaron,142
+DVD,IN,Harry Potter and the Goblet of Fire,2005,PG-13,Mike Newell,157
+BOOK,IN,Computer Science Illuminated,Nell Dale and John Lewis,2013,978-1-4496-7284-3
+DVD,IN,Harry Potter and the Deathly Hallows: Part 1,2010,PG-13,David Yates,146
+DVD,OUT,Spirited Away,2001,PG,Hayao Miyazaki,125
+DVD,OUT,Harry Potter and the Philosopher's Stone,2001,PG,Chris Columbus,152
+DVD,OUT,My Neighbor Totoro,1988,G,Hayao Miyazaki,86

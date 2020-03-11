@@ -1,0 +1,17 @@
+CAR,OUT,Vauxhall,Astra,AA05 VJV,5,false,3
+MOTORHOME,OUT,Mazda,Bongo 2.0,WA64 ZKZ,4,false,false
+CAR,OUT,Honda,Accord,CV12 WHK,3,false,5
+CAR,OUT,Tesla,Model X,WG08 XPC,7,true,5
+MOTORHOME,OUT,Concorde,Centurian,Y208 OBM,7,true,true
+MOTORHOME,IN,Morelo,Palace,VK60 GZC,10,true,true
+CAR,IN,Nissan,Micra,FY61 HYU,3,false,3
+CAR,IN,Volkswagon,Golf,HJ65 WKV,5,true,5
+MOTORHOME,IN,Concorde,Charisma,JA19 SHD,4,false,true
+CAR,OUT,Lamborghini,Huracan,CV59 TFF,2,true,3
+CAR,IN,Alfa Romeo,Guiletta,CV66 FCJ,5,false,5
+CAR,IN,Nissan,Micra,CT08 AHD,5,false,5
+CAR,OUT,Morris,Minor,CV11 WKX,4,false,2
+MOTORHOME,OUT,Ford,Transit,CN09 ZTJ,2,false,false
+MOTORHOME,IN,Carthago,Chic C Line,CN54 BGU,6,true,false
+MOTORHOME,OUT,Newell,T2000i,Z01 EVE,5,true,true
+MOTORHOME,OUT,Fleetwood,Tradition,DS68 BGA,19,true,true
